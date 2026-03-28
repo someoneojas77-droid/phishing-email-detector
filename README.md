@@ -34,7 +34,7 @@ This project aims to provide a simple solution to detect such emails using basic
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/phishing-email-detector.git
+   git clone [https://github.com/someoneojas77-droid/phishing-email-detector]
 
 2. Open the project folder:
    cd phishing-email-detector
